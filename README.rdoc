@@ -1,0 +1,10 @@
+= VoiceLink Logo without images.
+
+Demo: 
+http://t-k.github.com/VoiceLinkLogo/
+
+== Author
+Tatsuo Kaniwa  (mailto:tatsuo@kaniwa.biz)
+
+== License
+MIT License - fork, modify and use however you want.
